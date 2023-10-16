@@ -5,9 +5,10 @@
 ### Here is a screenshot of the Streamlit Application page:
 ![image](https://github.com/ObyNtech/module_18_challenge/assets/132803426/919c709c-1469-4d39-b556-e03978cd2a5c)
 
-###Sample block and Hash in the Streamlit drop down menu
+###Sample block and Hash in the Streamlit drop down menu: 1
 ![image](https://github.com/ObyNtech/module_18_challenge/assets/132803426/38c07889-3109-42a8-8049-ce481e3fb6be)
 
+###Sample block and Hash in the Streamlit drop down menu: 2
 ![image](https://github.com/ObyNtech/module_18_challenge/assets/132803426/7a30460a-4879-4ddf-abd9-917ad800f56a)
 
 
